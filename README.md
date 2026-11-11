@@ -26,7 +26,7 @@
 ```yaml
 name: Vishal Jadhav
 located_in: India
-current_focus: AI-Powered Applications & MCP Integrations
+current_focus: Trustworthy AI tooling — agent PR triage, MCP integrations, applied ML systems
 interests:
   - Large Language Models & Conversational AI
   - Cybersecurity & Threat Detection
@@ -44,54 +44,18 @@ open_to: Collaborations on AI/ML and Open Source projects
 <tr>
 <td width="50%" valign="top">
 
-### 🧘 [Mitra-AI](https://github.com/Vc555s/Mitra-AI)
-> Multilingual mental health companion powered by LLMs with emotion recognition, contextual memory, and safe empathetic responses.
+### 🚦 [MergeLane](https://github.com/Vc555s/MergeLane)
+> Sorts AI-agent pull requests into a fast lane and a human-review lane, with a statistically certified error bound re-checked monthly on the repo's own history. Trained on 246k merged agent PRs.
 
-`LLM` `NLP` `Emotion AI` `Mental Health`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [EthosGuard](https://github.com/Vc555s/EthosGuard)
-> Real-time AI cybersecurity platform detecting DDoS attacks, email spam & financial fraud using stacked ensemble models with ADASYN, SMOTE & Tomek Links.
-
-`Cybersecurity` `Flask` `ML` `Ensemble Models`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 [jira-mcp](https://github.com/Vc555s/jira-mcp)
-> Model Context Protocol (MCP) server for seamless Jira integration — bridging AI agents with project management workflows.
-
-`MCP` `Jira` `AI Agents` `Automation`
+`ML` `Statistical Guarantees` `AI Agents` `Code Review`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [RBM-UI-DEV-MCP](https://github.com/Vc555s/RBM-UI-DEV-MCP)
-> MCP-powered UI development toolkit for rapid building and prototyping interfaces with AI assistance.
+### 📚 [Nuralis](https://github.com/Vc555s/Nuralis)
+> Research-intelligence platform: pulls arXiv papers for a topic, measures how the field's vocabulary shifts year by year, indexes papers for semantic search and drafts a briefing with a local LLM.
 
-`MCP` `UI/UX` `Developer Tools`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 [SentinelX](https://github.com/Vc555s/SentinelX)
-> Advanced monitoring and security analysis tool built with TypeScript for robust, type-safe threat intelligence.
-
-`TypeScript` `Security` `Monitoring`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 [Agrivision](https://github.com/Vc555s/Agrivision)
-> Hackathon-winning project leveraging AI for crop recommendations and disease detection for farmers.
-
-`AI` `Agriculture` `Computer Vision` `Vercel`
+`FastAPI` `Sentence-Transformers` `ChromaDB` `React`
 
 </td>
 </tr>
@@ -99,21 +63,68 @@ open_to: Collaborations on AI/ML and Open Source projects
 <td width="50%" valign="top">
 
 ### 💰 [Coinnect](https://github.com/Vc555s/Coinnect)
-> Decentralised skill-sharing platform enabling peer-to-peer knowledge exchange powered by blockchain principles.
+> Peer-to-peer skill exchange: teach to earn SkillCoins held in escrow until a session is confirmed, with fuzzy and two-way swap matching. Every session becomes a hash-chained receipt identified by its IPFS CID, verifiable in the browser.
 
-`Python` `Blockchain` `P2P` `Web3`
+`FastAPI` `React 19` `IPFS CIDs` `Escrow`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 [GeoPrecision Analytics](https://github.com/Vc555s/GeoPrecision_Analytics)
-> Geospatial data analysis project using Jupyter Notebooks for precision location-based analytics and visualization.
+### 🌾 [Agrivision](https://github.com/Vc555s/Agrivision)
+> Hackathon project for farmers: AI crop recommendation and plant-disease detection from leaf images.
 
-`Jupyter` `Data Science` `GIS` `Analytics`
+`AI` `Agriculture` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧘 [Mitra-AI](https://github.com/Vc555s/Mitra-AI)
+> Multilingual mental-health companion combining LLM dialogue, dual emotion analysis, speech interaction and memory retrieval for safe, contextual conversations.
+
+`LLM` `Emotion AI` `Speech` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 [jira-mcp](https://github.com/Vc555s/jira-mcp)
+> MCP integration that lets an AI agent investigate and propose fixes for Jira tickets while every step stays human-approved and audit-logged.
+
+`MCP` `Jira` `AI Agents` `Governance`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ [SentinelX](https://github.com/Vc555s/SentinelX)
+> SafeCity platform: ML crime-hotspot prediction, patrol-route optimisation and a live public-safety map.
+
+`Python` `FastAPI` `TypeScript` `Geospatial ML`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [EthosGuard](https://github.com/Vc555s/EthosGuard)
+> Real-time detection of DDoS traffic, email spam and financial fraud with stacked ensembles; class imbalance handled with ADASYN, SMOTE and Tomek Links.
+
+`Cybersecurity` `Ensemble ML` `Flask`
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+| Project | What it is |
+|---|---|
+| [RBM-UI-DEV-MCP](https://github.com/Vc555s/RBM-UI-DEV-MCP) | Local MCP servers + Cursor workflow for Jira ticket resolution, audit logging and QA automation |
+| [GeoPrecision Analytics](https://github.com/Vc555s/GeoPrecision_Analytics) | Geospatial analysis and visualisation notebooks |
+
+</details>
 
 <br/>
 
@@ -131,6 +142,8 @@ open_to: Collaborations on AI/ML and Open Source projects
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
 </p>
 </details>
 
@@ -145,6 +158,8 @@ open_to: Collaborations on AI/ML and Open Source projects
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 </details>
 
